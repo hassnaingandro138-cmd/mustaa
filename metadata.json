@@ -1,0 +1,6 @@
+{
+  "name": "MUSTAFA'S CARS",
+  "description": "Premier luxury, sports, and certified pre-owned car dealership showroom featuring curated supercars, grand tourers, and bespoke collector vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
